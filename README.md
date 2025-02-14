@@ -2,7 +2,7 @@
 
 React アウトプットサンプル
 
-状態管理を context API を使用した構成
+react-router を用いて SPA 構成にしたアプリケーション
 
 url はこちら
 https://yukionishi1129.github.io/react-output-router-v2
