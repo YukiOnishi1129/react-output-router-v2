@@ -1,5 +1,5 @@
 import { NavigationLink } from "../../atoms/NavigationLink";
-import { NAVIGATION_PATH } from "../../../constants/navigations";
+import { NAVIGATION_PATH } from "../../../constants/navigation";
 import styles from "./style.module.css";
 
 export const Navigation = () => (

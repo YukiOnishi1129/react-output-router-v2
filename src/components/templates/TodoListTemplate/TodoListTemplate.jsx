@@ -3,7 +3,7 @@ import { AddTodo, TodoList } from "../../organisms";
 import { useTodoContext } from "../../../hooks/useTodoContext";
 import styles from "./style.module.css";
 
-export const TodoTemplate = () => {
+export const TodoListTemplate = () => {
   // コンテキストから状態とロジックを呼び出してコンポーネントにあてがう
   const {
     addInputValue,
