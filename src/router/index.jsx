@@ -19,22 +19,3 @@ export const Router = () => {
     </BrowserRouter>
   );
 };
-
-// export const router = createBrowserRouter([
-//   {
-//     path: NAVIGATION_LIST.TOP,
-//     element: <TodoPage />,
-//   },
-//   {
-//     path: NAVIGATION_LIST.DETAIL,
-//     element: <TodoDetailPage />,
-//   },
-//   {
-//     path: NAVIGATION_LIST.CREATE,
-//     element: <TodoCreatePage />,
-//   },
-//   {
-//     path: NAVIGATION_LIST.EDIT,
-//     element: <TodoEditPage />,
-//   },
-// ]);
