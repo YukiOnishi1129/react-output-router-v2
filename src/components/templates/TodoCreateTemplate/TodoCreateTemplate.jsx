@@ -1,8 +1,6 @@
-import { useTodoContext } from "../../../hooks/TodoContext";
-import { BaseLayout } from "../../organisms/BaseLayout";
-import { InputForm } from "../../atoms/InputForm";
-import { TextArea } from "../../atoms/TextArea";
-import { CommonButton } from "../../atoms/CommonButton";
+import { useTodoContext } from "../../../hooks/useTodoContext.js";
+import { BaseLayout } from "../../organisms";
+import { CommonButton, InputForm, TextArea } from "../../atoms";
 import { useTodoCreateTemplate } from "./useTopCreateTemplate.js";
 import styles from "./style.module.css";
 

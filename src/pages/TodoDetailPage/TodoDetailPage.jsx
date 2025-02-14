@@ -1,3 +1,3 @@
-import { TodoDetailTemplate } from "../components/templates";
+import { TodoDetailTemplate } from "../../components/templates";
 
 export const TodoDetailPage = () => <TodoDetailTemplate />;

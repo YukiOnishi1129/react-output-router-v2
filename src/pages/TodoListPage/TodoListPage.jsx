@@ -1,3 +1,3 @@
-import { TodoTemplate } from "../../components/templates";
+import { TodoListTemplate } from "../../components/templates";
 
-export const TodoListPage = () => <TodoTemplate />;
+export const TodoListPage = () => <TodoListTemplate />;
